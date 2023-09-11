@@ -1,0 +1,53 @@
+/* Estilos para el botón */
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Estilos para las imágenes circulares */
+.circle-images img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #1ece84;
+    margin: 10px;
+}
+
+/* Estilos para el párrafo */
+p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el encabezado y la navegación */
+header {
+    background-color: #29b982;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Añadir estilos personalizados según tus preferencias */
